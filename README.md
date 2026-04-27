@@ -1,4 +1,4 @@
-# Análisis de Rendimiento Académico
+# Análisis de rendimiento académico con Python y Pandas | Proyecto de Data Analyst
 
 Análisis de datos académicos con Python para identificar patrones de rendimiento estudiantil en la Institución Madeg
 
