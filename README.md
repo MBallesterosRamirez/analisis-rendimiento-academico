@@ -82,7 +82,7 @@ Este proyecto permite:
 
 ---
 
-## ⚙️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 * Python
 * Pandas
